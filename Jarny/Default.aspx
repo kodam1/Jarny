@@ -498,7 +498,7 @@
               <div class="member-info">
                 <h4>Nitin Yadav</h4>
                 <span>Operations Manager, E-commerce Co.</span>
-                <p>The website Akodam developed for us has significantly increased our online sales. Highly recommend their services!</p>
+                <p>The website Jarny developed for us has significantly increased our online sales. Highly recommend their services!</p>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter-x"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
