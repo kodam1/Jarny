@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>D:\PublishSites\Jarny</_PublishTargetUrl>
-    <History>True|2025-01-31T16:04:10.3145995Z;</History>
+    <History>True|2025-01-31T16:26:32.2451401Z;True|2025-01-31T21:54:15.8537409+05:30;True|2025-01-31T21:34:10.3145995+05:30;</History>
     <LastFailureDetails />
   </PropertyGroup>
   <ItemGroup>
@@ -844,22 +844,22 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>08/08/2018 12:18:16</publishTime>
     </File>
     <File Include="Default.aspx">
-      <publishTime>01/31/2025 20:58:17</publishTime>
+      <publishTime>01/31/2025 21:52:25</publishTime>
     </File>
     <File Include="main.Master">
-      <publishTime>01/31/2025 19:53:37</publishTime>
+      <publishTime>01/31/2025 21:52:25</publishTime>
     </File>
     <File Include="portfolio-details.aspx">
-      <publishTime>01/31/2025 01:25:30</publishTime>
+      <publishTime>01/31/2025 21:52:25</publishTime>
     </File>
     <File Include="service-details.aspx">
-      <publishTime>01/31/2025 01:25:30</publishTime>
+      <publishTime>01/31/2025 21:52:25</publishTime>
     </File>
     <File Include="starter-page.aspx">
       <publishTime>01/31/2025 01:25:30</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>01/31/2025 21:34:08</publishTime>
+      <publishTime>01/31/2025 21:54:15</publishTime>
     </File>
   </ItemGroup>
 </Project>
